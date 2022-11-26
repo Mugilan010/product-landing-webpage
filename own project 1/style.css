@@ -1,0 +1,168 @@
+/* title-section-start */
+.title-nav{background:#e0144c;
+padding:7% 7%;}
+
+.head-h1{width:40rem;
+         font-size:3rem;;
+         color:#fff;
+         float: left;
+         font-family: 'Russo One', sans-serif;}
+
+.navbar{
+  padding:1% 0;
+  padding-bottom:4%;
+}
+
+.main-img{width:40%;
+          border-radius:10%;}
+
+.navbar-brand{font-size:250%;
+              font-family:sans-serif;
+              color:#fff;}
+/* title-section-end */
+
+/* prodcts-section-start */
+
+.prodcts{text-align: center;
+         margin:5% 1%;
+         padding-top:5%;}
+
+
+.coconut-img{width:30%;}
+
+.groundnut-img{width:30%;}
+
+.sesame-img{width:40%;
+}
+
+/* prodcts-section-end */
+
+/* testimonial-section-start */
+
+.testimonial{background:#e0144c;
+             text-align:center;
+             padding-bottom:10%}
+
+.review-1{font-size:300%;
+          padding:0 15%;
+          padding-top:10%;
+          color:#fff;
+          }
+
+.review-2{font-size:300%;
+         padding:0 15%;
+         padding-top:10%;
+         color:#fff;}
+
+.review-3{font-size:200%;
+          padding:0 15%;
+          padding-top:11.5%;
+          color:#fff;}
+
+.person-img{width:15%;
+             border-radius:100%;
+             margin-top:4%;}
+
+.person-name{padding-top:1%;}
+
+/* testimonial-end */
+
+/* pricing-start */
+
+.pricing{text-align: center;
+         margin:10% 0;}
+
+.pricing-h2{font-size:200%;
+            padding-top:5%;}
+
+.row{margin:1%;}
+
+/* pricing-end */
+
+/* final-start */
+
+.final{background:#e0144c;
+       color:#fff;
+       text-align:center;
+       padding:15%;}
+
+.btn{margin:1%;}
+
+/* final-end */
+
+/* footer-start */
+
+.footer{margin: 10% 0 1%;
+        text-align: center;}
+
+.footer-p{text-align: center;}
+
+.footer-img{padding:1%;}
+
+/* card */
+
+/* .card1{width:300px;
+        margin: 0 ;
+        } */
+
+.pricing{margin-left:20px;}
+
+.card1:hover{box-shadow:8px 10px 15px 15px #22a39f;}
+
+/* .card2{width:300px;
+       margin: 0 } */
+
+.card2:hover{box-shadow:8px 10px 15px 15px #22a39f;}
+
+/* .card3{width:300px;
+      margin: 0 } */
+
+.card3:hover{box-shadow:8px 10px 15px 15px #22a39f;}
+
+@media (max-width:850px) {
+
+
+
+
+.main-content{text-align:center;
+      width:10rem;
+      padding:20px;}
+
+.title-nav ,.prodcts , .testimonial{margin-right:-14rem;}
+
+.main-img{
+
+  position:static;
+  width:20rem;}
+
+.navbar-brand{font-size:200%;}
+
+.review-1,review-2,review-3{padding:0;}
+
+.title-nav{padding-left: 1%;}
+
+body{width:16.2rem;}
+
+.head-h1{width:25rem;
+          text-align: left;
+          font-size:30px;}
+
+.review-1{font-size:20px;
+          padding-top:24.3px;}
+.review-2{font-size:10px;}
+.review-3{font-size:10px;
+          padding-top:36px;}
+.final{width: 480px;}
+
+.footer{width:450px;}
+
+.pricing{margin-left: 5%;
+          width:450px;
+}
+
+.footer{padding-left: 10%;
+        padding-right: 0;}
+
+.prodcts{width:300px;
+          padding-left:150px;}
+}
